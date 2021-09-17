@@ -1,0 +1,9 @@
+/* static/css/base.css */
+h1 {
+  color: red;
+}
+
+.bookcover {
+    height: 15em;
+    width: auto;
+}
