@@ -48,7 +48,8 @@ INSTALLED_APPS = [
     'allauth.account',
     #Local
     'accounts',
-    'pages'
+    'pages',
+    'books',
 ]
 
 SITE_ID = 1
